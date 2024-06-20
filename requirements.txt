@@ -1,0 +1,10 @@
+tkinter
+opencv-python
+Pillow
+pygame
+sounddevice
+scipy
+google-generativeai
+speechrecognition
+gtts
+requests
